@@ -12,3 +12,6 @@
   <br/>
   <b>Note:</b> Top languages is only the data from my public repositories
 </details>
+      
+      
+[![Ole's github activity graph](https://activity-graph.herokuapp.com/graph?username=olekoester&theme=react)](https://github.com/olekoester/github-readme-activity-graph)
