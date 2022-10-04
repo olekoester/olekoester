@@ -1,7 +1,11 @@
 <h3 align="center">
-  Welcome to olekoester's profile 👋
+  Welcome to olekoester's profile
 </h3>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=4500&pause=500&color=61DBFB&width=435&lines=2%2B+years+of+coding+experience;Full-stack+web+developer" alt="Typing SVG" /></a>
+</p>
 <!-- Social icons section -->
 <p align="center">
   
