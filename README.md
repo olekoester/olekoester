@@ -42,5 +42,5 @@
 <!-- https://github.com/olekoester/github-activity-readme -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  <a href="https://github.com/olekoester/github-readme-activity-graph"><img alt="olekoester's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olekoester&theme=react" /></a>
+  <a href="https://github.com/olekoester/github-readme-activity-graph"><img alt="olekoester's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=olekoester&theme=react" /></a>
   <br/>
