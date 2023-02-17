@@ -15,22 +15,30 @@
 ## Language and Frameworks
 ### Programming & Markup Languages
 <!-- badges are from https://github.com/Ileriayo/markdown-badges -->
-
-<a href="https://github.com/search?q=user%3olekoester+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3olekoester+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-<a href="https://github.com/search?q=user%3olekoester+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-<a href="https://github.com/search?q=user%3olekoester+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3olekoester+language%3Anode"><img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-
-          
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Acpp"><img alt="Cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3AtypeScript"><img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Ajavascript"><img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Ahtml"><img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <br/><br/>
 ### Frameworks & Libraries
-<img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Spring" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Jquery" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-                   
-          
+<a href="https://github.com/search?q=user%3Aolekoester+language%3AReact"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3AVue"><img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3AVite"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3AJquery"><img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3ASpring"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Angular"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3AJunit"><img alt="" src=""></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3AMockito"><img alt="" src=""></a>
 <br/><br/>          
+### Database
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Mysql"><img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3APostgressql"><img alt="Postgressql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3ARedis"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
+
 
 ## Stats Github
 <!-- https://github.com/anuraghazra/github-readme-stats -->
