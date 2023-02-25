@@ -8,7 +8,7 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  
+  https://github.com/olekoester/Big-DATA/search?l=jupyter-notebook
 </p>
 
 --- 
@@ -24,20 +24,32 @@
 <a href="https://github.com/search?q=user%3Aolekoester+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Aolekoester+language%3Ahtml"><img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <br/><br/>
+
 ### Frameworks & Libraries
-<a href="https://github.com/search?q=user%3Aolekoester+language%3AReact"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3AVue"><img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3AVite"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3AJquery"><img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3ASpring"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3Angular"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3AJunit"><img alt="" src=""></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3AMockito"><img alt="" src=""></a>
-<br/><br/>          
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Areact"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
+<a href="#"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
+<a href="#"><img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aolekoester+language%3angular"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+<a href="#"><img alt="" src=""></a>
+<a href="#"><img alt="" src=""></a>
+<br/><br/>
+
 ### Database
-<a href="https://github.com/search?q=user%3Aolekoester+language%3Mysql"><img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3APostgressql"><img alt="Postgressql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Aolekoester+language%3ARedis"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
+<a href="#"><img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Postgressql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
+<br/><br/>
+
+### Software and Tools
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+
 
 
 ## Stats Github
