@@ -8,7 +8,6 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  https://github.com/olekoester/Big-DATA/search?l=jupyter-notebook
 </p>
 
 --- 
